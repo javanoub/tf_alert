@@ -19,7 +19,7 @@ while True:
     parsedFloat = float(price)
     time.sleep(0.0625)
 
-    if parsedFloat > alertPrice:
+    if parsedFloat >= alertPrice:
         #change path to wherever you placed your desired alert sound
         playsound(r'/YOUR/SOUND/PATH/')
 
