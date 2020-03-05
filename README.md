@@ -1,5 +1,10 @@
 # tf_alert
 alerts for non premium trading view users
+
+pre-reqs:
+
+must have python installed
+
 instructions:
 
 1:) in command prompt do
