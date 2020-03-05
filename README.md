@@ -4,8 +4,9 @@ instructions:
 
 1:) in command prompt do
 
-a:) pip install playsound
-b:) pip install selenium
+    a:) pip install playsound
+
+    b:) pip install selenium
 
 2:) find google chrome version by clicking 3 dots in top left corner > help > about google chrome 
 
